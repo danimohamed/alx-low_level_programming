@@ -1,5 +1,3 @@
-nes (23 sloc)  414 Bytes
-
 #include "main.h"
 
 /**
@@ -26,4 +24,3 @@ int i;
 	return (dest);
 
 }
-
